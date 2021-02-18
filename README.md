@@ -13,7 +13,7 @@ During pre-proccess the images were converted to png format.
 
 ## Model
 
-![u-net-architecture.png](unet.png)
+![u-net-architecture.png](images/unet.png)
 
 The input and output of the network are 384*384 pixel images.
 
@@ -21,5 +21,5 @@ The input and output of the network are 384*384 pixel images.
 
 ### Results
 
-![input.png](input.png)|![output.png](output.png)
+![input.png](images/input.png)|![output.png](images/output.png)
 
