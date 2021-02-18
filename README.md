@@ -7,7 +7,7 @@ The architecture was inspired by [U-Net: Convolutional Networks for Biomedical I
 
 ## Data
 
-The original dataset is from https://nda.nih.gov/oai/. 
+The original dataset is from [OAI ZIB dataset ](https://nda.nih.gov/oai/). 
 This archive contained manual segmentations of the OAI ZIB dataset stored as label/voxel fields saved in the 'ITK MetaImage MHD'-format.
 During pre-proccess the images were converted to png format. 
 
